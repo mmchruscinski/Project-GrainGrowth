@@ -209,7 +209,6 @@ plt.imsave('MergedPhases.png', gridRepr2)
 
 
 
-
     
 
     
